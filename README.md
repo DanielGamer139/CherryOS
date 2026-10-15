@@ -1,0 +1,2 @@
+# CherryOS
+Similar to KiwiOS.
